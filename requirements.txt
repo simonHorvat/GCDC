@@ -1,0 +1,7 @@
+ijson
+seaborn
+networkx
+matplotlib
+pandas
+plotly
+numpy
