@@ -48,8 +48,10 @@ jupyter notebook main.ipynb
 
 ## 📌 Usage
 Run the Jupyter Notebook to explore and analyze the dataset:
-
+```bash
 jupyter notebook main.ipynb
+```
 
 ## 📜 License
 This project is open-source. Feel free to contribute and improve it!
+
